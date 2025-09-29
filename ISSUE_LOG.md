@@ -1,4 +1,4 @@
-# 🐞 Issue Log - HealthAppProject
+# Issue Log - HealthAppProject
 
 | ID | Name                               | Assignees        | Labels | Milestone   | Status | Notes |
 |----|------------------------------------|------------------|--------|-------------|--------|-------|
