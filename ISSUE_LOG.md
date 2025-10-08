@@ -3,7 +3,7 @@
 | ID | Name                               | Assignees        | Labels | Milestone   | Status | Notes |
 |----|------------------------------------|------------------|--------|-------------|--------|-------|
 | 1  | Develop Project Charter            | PM               | task   | Initiation  | Open   |       |
-| 2  | Identify Stakeholders              | PM               | task   | Initiation  | Open   |       |
+| 2  | Identify Stakeholders              | PM               | task   | Initiation  | Closed   |   All Stakeholders are accounted for    |
 | 3  | Conduct Kickoff Meeting            | PM               | task   | Initiation  | Open   |       |
 | 4  | Define Requirements                | PM, Designer     | task   | Planning    | Open   |       |
 | 5  | Create WBS                         | PM               | task   | Planning    | Open   |       |
@@ -11,9 +11,9 @@
 | 7  | Estimate Costs                     | PM               | task   | Planning    | Open   |       |
 | 8  | Plan Risk Management               | PM               | task   | Planning    | Open   |       |
 | 9  | Select Tech Stack (Flutter)        | Developer        | task   | Planning    | Open   |       |
-| 10 | UI/UX Research                     | Designer         | task   | Design      | Open   |       |
-| 11 | Create Wireframes                  | Designer         | task   | Design      | Open   |       |
-| 12 | Design Prototypes                  | Designer         | task   | Design      | Open   |       |
+| 10 | UI/UX Research                     | Designer         | task   | Design      | Closed   |  All information in regards to UI and UX is up to date     |
+| 11 | Create Wireframes                  | Designer         | task   | Design      | Closed  |  No need to modify or alter this     |
+| 12 | Design Prototypes                  | Designer         | task   | Design      | Closed  |       |
 | 13 | User Feedback on Design            | Designer         | task   | Design      | Open   |       |
 | 14 | Finalize Design                    | Designer         | task   | Design      | Open   |       |
 | 15 | Set up Development Environment     | Developer        | task   | Development | Open   |       |
@@ -24,16 +24,16 @@
 | 20 | Implement Cross-Platform Features  | Developer        | task   | Development | Open   |       |
 | 21 | Backend Setup (Firebase)           | Developer        | task   | Development | Open   |       |
 | 22 | Integrate APIs                     | Developer        | task   | Development | Open   |       |
-| 23 | Offline Functionality              | Developer        | task   | Development | Open   |       |
+| 23 | Offline Functionality              | Developer        | task   | Development | Pending   |       |
 | 24 | Security Implementation            | Developer        | task   | Development | Open   |       |
-| 25 | Unit Testing                       | Tester           | task   | Testing     | Open   |       |
+| 25 | Unit Testing                       | Tester           | task   | Testing     | Pending   |       |
 | 26 | Integration Testing                | Tester           | task   | Testing     | Open   |       |
-| 27 | System Testing                     | Tester           | task   | Testing     | Open   |       |
+| 27 | System Testing                     | Tester           | task   | Testing     | Pending  |   Awaiting response from Tester and Provide feedback to developers    |
 | 28 | User Acceptance Testing            | Tester, PM       | task   | Testing     | Open   |       |
-| 29 | Bug Fixing                         | Developer        | task   | Testing     | Open   |       |
-| 30 | Prepare Deployment                 | Developer        | task   | Deployment  | Open   |       |
-| 31 | Deploy to App Stores               | PM               | task   | Deployment  | Open   |       |
-| 32 | Launch Marketing                   | PM               | task   | Deployment  | Open   |       |
+| 29 | Bug Fixing                         | Developer        | task   | Testing     | Open   |  Active throughout application Life Cycle     |
+| 30 | Prepare Deployment                 | Developer        | task   | Deployment  | Pending   |       |
+| 31 | Deploy to App Stores               | PM               | task   | Deployment  | Open   |    Requires real time support especially from Decelopment Team   |
+| 32 | Launch Marketing                   | PM               | task   | Deployment  | Pending  |       |
 | 33 | Post-Launch Monitoring             | Tester           | task   | Deployment  | Open   |       |
 
 
