@@ -37,9 +37,3 @@
 | 33 | Post-Launch Monitoring             | Tester           | task   | Deployment  | Open   |       |
 
 
-
-| ID | Name                               | Assignees        | Labels | Milestone   | Status | Notes |
-|----|------------------------------------|------------------|--------|-------------|--------|-------|
-| 1  | Point          | PM               | you   | work  | hi   |    later   |
-| 2  | point 2           | PM               | me   | play  | hello   |     urgent  |
-| 3  | point 158        | PM               | us   | look  | 125   |    56466   |
